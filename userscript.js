@@ -4,7 +4,7 @@
 // @version      v0.1-alpha
 // @description  Revealing grades in a very interesting manner
 // @author       Cyclate
-// @match        https://link.stleonards.vic.edu.au/learning/grades/*
+// @match        [YOUR-SCHOOL-GRADES-LINK]*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vic.edu.au
 // @grant        GM_addStyle
 // @require      https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js
